@@ -1,3 +1,4 @@
+<!-- Profile README for EmkarB -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Emkar+%F0%9F%91%8B;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Cloud+Explorer;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </h1>
@@ -69,6 +70,8 @@ motto: "Automate everything. Break nothing. Learn always."
 ### 📫 Let's Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/emkar-bulan%C4%B1kl%C4%B1-586ba0241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/emkarbulanikli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/EmkarB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
